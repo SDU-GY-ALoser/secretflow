@@ -109,3 +109,7 @@
 - S. Takagi, Y. Cao, and M. Yoshikawa, 
   [POSTER: Data collection via local differential privacy with secret parameters](https://dl.acm.org/doi/10.1145/3320269.3405441),
   in Proc.ACM Asia CCS, 2020, p. 910–912
+  
+  Liu, Gaoyuan, Peng Tang, Chengyu Hu, Chongshi Jin, and Shanqing Guo,
+  [Multi-Dimensional Data Publishing with Local Differential Privacy](https://openproceedings.org/2023/conf/edbt/paper-210.pdf),
+  in International Conference on Extending Database Technology, EDBT, 2023, pp. 183-194
